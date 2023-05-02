@@ -1,24 +1,12 @@
-1. C
 https://www.youtube.com/watch?v=mKcAC1Mav_8
-2. C# 
 https://www.youtube.com/watch?v=AJAeFBgM_z0
-3. D
 https://www.youtube.com/watch?v=jpaR2KdQ63I
-4. D#
 https://www.youtube.com/watch?v=zoTw4MELlt8
-5. E
 https://www.youtube.com/watch?v=0wAKomfxsl0
-6. F
 https://www.youtube.com/watch?v=x9O6UAVOOdE
-7. F#
 https://www.youtube.com/watch?v=v63I95EIics
-8. G
 https://www.youtube.com/watch?v=j1skTY6IdQg
-9. G#
 https://www.youtube.com/watch?v=JGq1HPfbcSo
-10. A
 https://www.youtube.com/watch?v=ooiA2yx5Wsg
-11. A#
 https://www.youtube.com/watch?v=k0Aa0z_sRdk
-12. B
 https://www.youtube.com/watch?v=3valEgYPsGw
